@@ -81,10 +81,11 @@ export const siteConfig: SiteConfig = {
     allowSystem: true,
   },
   links: {
-    website: "h",
+    website: "andito.dev",
     github: "https://github.com/anditorp",
     linkedin: "https://www.linkedin.com/in/anditorp",
     email: "mailto:contact@muhamadandito78.com",
+    tips: "",
   },
   social: [
     {
